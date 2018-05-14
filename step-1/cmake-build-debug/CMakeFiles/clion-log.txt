@@ -1,0 +1,4 @@
+/home/hoan/opt/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/hoan/Documents/5_dealii_apps/step-1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hoan/Documents/5_dealii_apps/step-1/cmake-build-debug

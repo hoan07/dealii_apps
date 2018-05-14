@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/step1.dir/step-1.cc.o  -o step1 "~/opt/deal.II/lib" -ldeal_II 
